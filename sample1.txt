@@ -8,6 +8,10 @@ fffffff
 
 subbです
 subbブランチです
+
 a
 メインブランチです
 ddd
+
+メインブランチです
+
